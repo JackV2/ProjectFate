@@ -1,2 +1,3 @@
 # ProjectFate
-TEST Version of the MMORPG
+TEST Version of the MMORPG.
+
